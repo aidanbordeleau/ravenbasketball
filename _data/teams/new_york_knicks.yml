@@ -1,0 +1,26 @@
+name: New York Knicks
+order: 2
+players:
+  - name: Jason Patlano
+    age: 17
+    position: PF
+    school: Cranston High School West
+    hometown: Cranston, RI
+    height: 5'10
+    weight: 150
+
+  - name: Jay Carosi
+    age: 38
+    position: C
+    school: Providence College
+    hometown: Cranston, RI
+    height: 5'8
+    weight: 198
+
+  - name: Edward Cappelli
+    age: 14
+    position: SG
+    school: Bishop Hendricken High School
+    hometown: Cranston, RI
+    height: 5'1
+    weight: 105

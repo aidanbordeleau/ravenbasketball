@@ -1,0 +1,26 @@
+name: Brooklyn Nets
+order: 1
+players:
+  - name: Aidan Bordeleau
+    age: 18
+    position: PF
+    school: Quinnipiac University
+    hometown: Cranston, RI
+    height: 6'2
+    weight: 185
+
+  - name: Justin Patalano
+    age: 15
+    position: PG
+    school: Cranston High School West
+    hometown: Cranston, RI
+    height: 5'10
+    weight: 140
+
+  - name: Jared Patalano
+    age: 13
+    position: SG
+    school: Hope Highlands Middle School
+    hometown: Cranston, RI
+    height: 5'6
+    weight: 105

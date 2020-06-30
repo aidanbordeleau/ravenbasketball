@@ -1,0 +1,33 @@
+name: Free Agents
+players:
+  - name: C.J. Bordeleau
+    age: 32
+    position: C
+    school: University of Rhode Island
+    hometown: Cranston, RI
+    height: 6'3
+    weight: 205
+
+  - name: Dillon Bordeleau
+    age: 22
+    position: PF
+    school: Worcester Polytechnic Institute
+    hometown: Cranston, RI
+    height: 6'1
+    weight: 180
+
+  - name: Todd Patalano
+    age: 47
+    position: SG
+    school: Roger Williams University
+    hometown: Cranston, RI
+    height: 6'0
+    weight: 180
+
+  - name: Matthew Pisaturo
+    age: 21
+    position: SG
+    school: Rhode Island College
+    hometown: Cranston, RI
+    height: 5'6
+    weight: 185

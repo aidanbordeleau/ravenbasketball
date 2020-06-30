@@ -1,0 +1,32 @@
+---
+layout: page
+title: Rosters
+permalink: /rosters/
+---
+
+{% for team_hash in site.data.teams reversed %}
+  {% assign team = team_hash[1] %}
+  <h2>{{ team.name }}</h2>
+  <table>
+    <tr>
+      <th>Player</th>
+      <th>Age</th>
+      <th>Position</th>
+      <th>School</th>
+      <th>Hometown</th>
+      <th>Height</th>
+      <th>Weight</th>
+    </tr>
+    {% for player in team.players %}
+      <tr>
+        <td>{{ player.name }}</td>
+        <td>{{ player.age }}</td>
+        <td>{{ player.position }}</td>
+        <td>{{ player.school }}</td>
+        <td>{{ player.hometown }}</td>
+        <td>{{ player.height }}</td>
+        <td>{{ player.weight }}lbs</td>
+      </tr>
+    {% endfor %}
+  </table>
+{% endfor %}
