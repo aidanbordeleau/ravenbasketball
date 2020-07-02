@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title:   "Player Statistics"
 date:   2020-06-27 16:10:45 -0400
-categories: jekyll update
+categories:
+excerpt: "Up-To-Date Player Statitics"
 ---
 | Player          | #  | PPG  | RPG | APG | SPG  | BPG  | TO  | PFPG |
 |-----------------|----|------|-----|-----|------|------|-----|------|

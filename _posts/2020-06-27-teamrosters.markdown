@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: single
 title:   "Team Rosters"
 date:   2020-06-27 16:30:45 -0400
-categories: jekyll update
+categories: 
+excerpt: "Current RCBL Team Rosters"
 ---
 # **Brooklyn Nets**
 
